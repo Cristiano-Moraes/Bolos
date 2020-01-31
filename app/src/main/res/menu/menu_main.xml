@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_item_hist_vendas"
+        android:title="@string/historico_de_vendas" />
+    <item
+        android:id="@+id/menu_item_add_produto"
+        android:title="@string/cadastrar_produto" />
+    <item
+        android:id="@+id/menu_item_config_print"
+        android:title="@string/configurar_impressora" />
+    <item
+        android:id="@+id/menu_item_about"
+        android:title="@string/sobre_o_software" />
+</menu>

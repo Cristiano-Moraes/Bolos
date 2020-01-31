@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Encomendas v1</string>
+    <string name="lbl_cliente">Nome :</string>
+    <string name="lbl_cpf">CPF :</string>
+    <string name="lbl_fone">Fone :</string>
+    <string name="adicionar_produtos">Adicionar Produtos</string>
+    <string name="lista_de_pedidos">lista de pedidos</string>
+    <string name="confirmar">confirmar</string>
+    <string name="sair">sair</string>
+    <string name="nome">Nome :</string>
+    <string name="fone">Fone :</string>
+    <string name="data">data</string>
+    <string name="hora">hora</string>
+    <string name="endere_o">endereço</string>
+    <string name="cpf_ou_cnpj">cpf ou cnpj</string>
+    <string name="cadastro_endereco">Cadastro De Endereço</string>
+    <string name="cadastrar_grupo">Cadastrar Grupo</string>
+    <string name="cadastrar_produto">Cadastrar Produto</string>
+    <string name="configurar_impressora">Configurar Impressora</string>
+    <string name="sobre_o_software">Sobre o Software</string>
+    <string name="ramal">Ramal:</string>
+    <string name="historico_de_vendas">Historico de Vendas</string>
+    <string name="selecionar_produtos">Selecionar Produtos:</string>
+    <string name="item">ITEM</string>
+    <string name="unidades">unidades :</string>
+
+</resources>
